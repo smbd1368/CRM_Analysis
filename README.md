@@ -1,4 +1,3 @@
-Certainly! I'll create a README.md file for your CRM_Analysis package, including an example of how to use it. Here's a comprehensive README.md that you can use:
 
 ```markdown
 # CRM_Analysis
